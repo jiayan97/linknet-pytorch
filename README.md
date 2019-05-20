@@ -4,7 +4,7 @@
 
 This is a Pytorch reimplementation of [LinkNet](http://cn.arxiv.org/pdf/1811.06410v1) for Scene Graph Generation.
 
-Core code is [rel_model_linknet.py](), built on top of [neural-motifs](https://github.com/rowanz/neural-motifs).
+Core code is [rel_model_linknet.py](https://github.com/jiayan97/linknet-pytorch/blob/master/lib/rel_model_linknet.py), built on top of [neural-motifs](https://github.com/rowanz/neural-motifs).
 
 ## Setup
 
